@@ -1,6 +1,6 @@
 ---
 name: ios-icon-organizer
-description: 通过 pymobiledevice3 协议级读写 iPhone/iPad 的 SpringBoard 图标布局，将主屏 App 按真实功能分类归夹。当用户需要整理 iPhone/iPad 主屏、把 App 分类放入文件夹、调整 iOS 桌面布局、合并/拆分文件夹，或提到 pymobiledevice3 / get_icon_state / set_icon_state / 图标布局整理 时使用。
+description: 整理 iPhone / iPad 主屏：把主屏上散落的几十上百个 App 按实际用途分类放进文件夹，不用手动一个一个拖拽，全程先备份、一次一夹、步步核验。当用户想整理手机桌面、把 App 归类建夹、合并/拆分文件夹，或提到 pymobiledevice3 / get_icon_state / set_icon_state / 图标布局整理时使用。
 ---
 
 # iOS 主屏分类归夹 Skill
